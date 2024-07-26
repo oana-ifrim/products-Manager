@@ -1,5 +1,4 @@
-An API for product management and an API for user management with spring security.
-
+# An API for product management and an API for user management with spring security.
 
 The product API provides HTTP endpoint's and tools for the following:
 
